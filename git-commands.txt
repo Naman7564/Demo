@@ -3,3 +3,7 @@ git add .
 git commit -m
 git push origin 
 git pull origin
+
+git branch 
+git switch 
+git branch -d
